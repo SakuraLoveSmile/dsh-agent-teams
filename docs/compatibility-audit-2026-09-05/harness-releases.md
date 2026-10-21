@@ -44,7 +44,7 @@ CLI 关键发布时间：
 
 来源：[官方 CLI registry](https://registry.npmjs.org/@deepseek-ai%2Fdsh)、[官方 subagent registry](https://registry.npmjs.org/@deepseek-ai%2Fdsh-subagent)、[官方 ui-chat registry](https://registry.npmjs.org/@deepseek-ai%2Fdsh-client-ui-chat)、[GitHub rc.1 release](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.2-rc.1)、[GitHub 0.1.3-alpha.1 release](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.3-alpha.1)。完整采集：[registry 快照](./harness-npm-snapshot.json)。
 
-本地源码：`/Users/nanmi/workspace/github/deepseek-harness`，HEAD `d347e703908d0406b7a7ef80e3a0e594d86b2215`，`package.json` 为 `0.1.3-alpha.1`；开始和复核时工作区干净。已读取根、packages、scripts、docs、.github 对应 AGENTS。上游根 [AGENTS.md](https://github.com/deepseek-ai/deepseek-harness/blob/d347e703908d0406b7a7ef80e3a0e594d86b2215/AGENTS.md) 明确说明 API 尚未稳定；这不是我们可以通过扩大 peer range 改掉的承诺。
+本地源码：`/Users/developer/workspace/github/deepseek-harness`，HEAD `d347e703908d0406b7a7ef80e3a0e594d86b2215`，`package.json` 为 `0.1.3-alpha.1`；开始和复核时工作区干净。已读取根、packages、scripts、docs、.github 对应 AGENTS。上游根 [AGENTS.md](https://github.com/deepseek-ai/deepseek-harness/blob/d347e703908d0406b7a7ef80e3a0e594d86b2215/AGENTS.md) 明确说明 API 尚未稳定；这不是我们可以通过扩大 peer range 改掉的承诺。
 
 ## 渠道规则：版本号和 tag 是两件事
 

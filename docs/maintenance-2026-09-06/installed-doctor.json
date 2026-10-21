@@ -101,7 +101,7 @@
       "entry": "source-script-profile",
       "argv": [
         "/tmp/dsh-runtime-lab-20260906/node-v24.20.0-darwin-arm64/bin/node",
-        "/Users/nanmi/workspace/myself_code/dsh-agent-teams-compat/scripts/doctor.mjs",
+        "/Users/developer/workspace/myself_code/dsh-agent-teams-compat/scripts/doctor.mjs",
         "--host-root",
         "/tmp/dsh-runtime-lab-20260906/0.1.2-alpha.2",
         "--profile-root",
@@ -215,7 +215,7 @@
       "entry": "source-script-profile",
       "argv": [
         "/tmp/dsh-runtime-lab-20260906/node-v24.20.0-darwin-arm64/bin/node",
-        "/Users/nanmi/workspace/myself_code/dsh-agent-teams-compat/scripts/doctor.mjs",
+        "/Users/developer/workspace/myself_code/dsh-agent-teams-compat/scripts/doctor.mjs",
         "--host-root",
         "/tmp/dsh-runtime-lab-20260906/runtime-alpha5-v3",
         "--profile-root",
@@ -329,7 +329,7 @@
       "entry": "source-script-profile",
       "argv": [
         "/tmp/dsh-runtime-lab-20260906/node-v24.20.0-darwin-arm64/bin/node",
-        "/Users/nanmi/workspace/myself_code/dsh-agent-teams-compat/scripts/doctor.mjs",
+        "/Users/developer/workspace/myself_code/dsh-agent-teams-compat/scripts/doctor.mjs",
         "--host-root",
         "/tmp/dsh-runtime-lab-20260906/0.1.2-rc.1",
         "--profile-root",

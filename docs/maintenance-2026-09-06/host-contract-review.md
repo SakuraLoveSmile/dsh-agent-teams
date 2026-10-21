@@ -1,6 +1,6 @@
 # AgentTeams subagent compatibility implementation review
 
-Reviewed 2026-09-06 in `/Users/nanmi/workspace/myself_code/dsh-agent-teams-compat`.
+Reviewed 2026-09-06 in `/Users/developer/workspace/myself_code/dsh-agent-teams-compat`.
 Implementation: `src/harness-compat.ts`, `src/members.ts`.
 Tests: `scripts/harness-compat-tdd.mjs`, lifecycle and member-failure default/`--modern-harness` modes.
 
